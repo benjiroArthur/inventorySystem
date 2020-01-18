@@ -1,0 +1,23 @@
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\VB.NET PROJECT\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mainPage.resources
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\SuperMarket.csproj.CopyComplete
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\Super_Market.mdf
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\Super_Market_log.ldf
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeePage.resources
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PrintArea.resources
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+F:\PROGRAMS\PROGRAMMING FILES\PROJECTS\C#\InventoryManagementSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
